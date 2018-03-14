@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15
 
-title = "Academic"
+title = "Title of the page"
 
 # Order that this section will appear in.
 weight = 3
@@ -24,7 +24,7 @@ weight = 3
   label = '<i class="fa fa-download"></i> Install Now'
 +++
 
-The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket:
+Here are some words
 <br>
 <small><a id="academic-release" href="https://sourcethemes.com/academic/updates">Latest release</a></small>
 <br><br>
