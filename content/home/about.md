@@ -17,19 +17,24 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
+  course = "PhD, Environmental Science and Management"
+  institution = "UCSB Bren School of Environmental Science & Management"
+  year = "2022 (est)"
+
+[[education.courses]]
+  course = "MESM, Energy & Climate/Coastal Marine Resource Management"
+  institution = "UCSB Bren School of Environmental Science & Management"
+  year = 2014
+
+[[education.courses]]
+  course = "MS, Mechanical Engineering"
   institution = "Stanford University"
-  year = 2012
-
+  year = 1994
+  
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS, Mechanical Engineering"
+  institution = "Stanford University"
+  year = 1993
  
 +++
 
