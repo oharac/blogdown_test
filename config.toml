@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Casey O'Hara"
-  role = "Scientist, educator,\ndata science enthusiast"
+  role = "Scientist, educator,<br>data science enthusiast"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -94,7 +94,7 @@ defaultContentLanguageInSubdir = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = ""
+  map_api_key = "AIzaSyCfa1UO3eZcRW-B6qkOL6VMd2LgZl3Ssjo"
   latitude = "34.4133021"
   longitude = "-119.8507978"
   zoom = 15
