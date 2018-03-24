@@ -37,12 +37,12 @@ selected = false
 projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739"
-url_code = "https://github.com/OHI-Science/IUCN-AquaMaps"
+url_pdf = "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267"
+url_code = "https://github.com/OHI-Science/ohi-global"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Interactive app", url = "http://ohi-science.nceas.ucsb.edu/plos_change_in_global_ocean_health/"}]
 
 # Does the content use math formatting?
 math = true

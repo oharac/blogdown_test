@@ -42,7 +42,7 @@ url_code = "https://github.com/OHI-Science/IUCN-AquaMaps"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Interactive app", url = "http://ohi-science.nceas.ucsb.edu/plos_marine_rangemaps/"}]
 
 # Does the content use math formatting?
 math = true
