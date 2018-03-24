@@ -6,7 +6,7 @@ date = "2018-03-24"
 title = "Ocean Health Index"
 
 # Project summary to display on homepage.
-summary = "The Ocean Health Index ('OHI') is a scientific framework used to measure how healthy oceans are. Understanding the state of our oceans is a first step towards ensuring they can continue providing humans benefits now and in the future."
+summary = "The Ocean Health Index (OHI) is a scientific framework used to measure how healthy oceans are. Understanding the state of our oceans is a first step towards ensuring they can continue providing humans benefits now and in the future."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "ohi_hdr.png"
