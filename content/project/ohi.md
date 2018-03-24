@@ -13,7 +13,7 @@ image_preview = "OHI_hex_sticker.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ohi", ocean-health-index"]
+tags = ["ohi", "ocean-health-index"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "ohi-science.org"
