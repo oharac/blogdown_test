@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "OHI_hex_sticker.png"
+image = "ohi_hdr.png"
 caption = "Ocean Health Index"
 
 +++
