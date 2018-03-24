@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Marine Conservation",
+    "Data Science",
+    "Equity in Environmental Management",
+    "STEM Education"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,11 +36,12 @@ weight = 5
   course = "BS, Mechanical Engineering"
   institution = "Stanford University"
   year = 1993
- 
+  
 +++
 
-# Biography
-
+<!--
+# About Me
+-->
 Casey O'Hara just made this page and needs to update it a bit.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
