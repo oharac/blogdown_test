@@ -16,7 +16,7 @@ image_preview = "ohi_hdr.png"
 tags = ["ohi", "ocean-health-index"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "ohi-science.org"
+external_link = "http://www.ohi-science.org"
 
 # Does the project detail page use math formatting?
 math = false

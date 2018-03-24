@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-03-24"
 
 # Order that this section will appear in.
 weight = 5
@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD, Environmental Science and Management"
   institution = "UCSB Bren School of Environmental Science & Management"
-  year = "2022 (est)"
+  year = "2022(ish)"
 
 [[education.courses]]
   course = "MESM, Energy & Climate/Coastal Marine Resource Management"
