@@ -29,12 +29,12 @@ abstract_short = "Here we present results from five years of annual global Ocean
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["example-external-project"]
+projects = ["ohi"]
 
 # Links (optional).
 url_pdf = "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267"
@@ -53,9 +53,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "OHI_hex_sticker.png"
+# caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+# More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

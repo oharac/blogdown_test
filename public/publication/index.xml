@@ -18,7 +18,16 @@
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/ohi_trends_2017/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
+    
+    <item>
+      <title>Our path to better science in less time using open data science tools</title>
+      <link>/publication/better_science_less_time/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/better_science_less_time/</guid>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
     </item>
     
     <item>
@@ -27,7 +36,7 @@
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/aligning_marine_spp/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
     </item>
     
   </channel>
