@@ -9,7 +9,7 @@ title = "Ocean Health Index"
 summary = "The Ocean Health Index ('OHI') is a scientific framework used to measure how healthy oceans are. Understanding the state of our oceans is a first step towards ensuring they can continue providing humans benefits now and in the future."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "OHI_hex_sticker.png"
+image_preview = "ohi_hdr.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
