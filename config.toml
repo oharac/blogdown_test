@@ -43,11 +43,11 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "1950s"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Casey O'Hara"
@@ -259,10 +259,10 @@ defaultContentLanguageInSubdir = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "CV"
-  url = "#cv"
-  weight = 5
+# [[menu.main]]
+#   name = "CV"
+#   url = "#cv"
+#   weight = 5
 
 [[menu.main]]
   name = "Contact"
