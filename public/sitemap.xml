@@ -133,7 +133,8 @@
     
     <url>
     
-      <loc>/cv/cv/</loc>
+      <loc>/categories/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -141,8 +142,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
-      <priority>0</priority>
+      <loc>/cv/cv/</loc>
     </url>
     
   
