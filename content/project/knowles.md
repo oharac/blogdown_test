@@ -23,3 +23,13 @@ math = false
 
 +++
 
+## 2004 - 2009: Science Teaching Fellow
+
+### National Board certification
+### AASTE
+### IceCube
+
+## 2009 - present: Senior Fellow
+
+### ETF/Lever
+### Kaleidoscope

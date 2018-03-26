@@ -32,6 +32,15 @@
     
     <url>
     
+      <loc>/project/knowles/</loc>
+      <lastmod>2018-03-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/ohi/</loc>
       <lastmod>2018-03-24T00:00:00+00:00</lastmod>
     </url>
@@ -77,15 +86,6 @@
     
     <url>
     
-      <loc>/talks/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -113,24 +113,6 @@
     
     <url>
     
-      <loc>/talks/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/archive/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -142,7 +124,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2018-03-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -160,8 +142,28 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/tags/knowles/</loc>
+      <lastmod>2018-03-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/knowles-teacher-initiative/</loc>
+      <lastmod>2018-03-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/kstf/</loc>
+      <lastmod>2018-03-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -191,6 +193,16 @@
     <url>
     
       <loc>/project/</loc>
+      <lastmod>2018-03-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/stem-education/</loc>
       <lastmod>2018-03-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

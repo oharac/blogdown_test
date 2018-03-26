@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,20 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Casey O&amp;rsquo;Hara just made this page and needs to update it a bit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
+      <description>I am a PhD student studying equity issues in marine conservation at UC Santa Barbara Bren School of Environmental Science and Management, advised by Ben Halpern. I continue to work with the Ocean Health Index team at the National Center for Ecological Analysis and Synthesis (NCEAS), where I lead the British Columbia Ocean Health Index assessment.
+My research will focus on process and outcome equity in environmental management - a confluence of ecology, natural resource economics, and behavioral economics.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/home/cv/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/home/cv/</guid>
+      <description>[Curriculum vitae](&amp;lsquo;static/cv/cv.md&amp;rsquo;) ([pdf](&amp;lsquo;static/cv/cv.pdf&amp;rsquo;))</description>
     </item>
     
     <item>

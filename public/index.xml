@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -40,6 +40,30 @@
       
       <guid>/archive/posts/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Knowles Teacher Initiative</title>
+      <link>/project/knowles/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/knowles/</guid>
+      <description>
+
+&lt;h2 id=&#34;2004-2009-science-teaching-fellow&#34;&gt;2004 - 2009: Science Teaching Fellow&lt;/h2&gt;
+
+&lt;h3 id=&#34;national-board-certification&#34;&gt;National Board certification&lt;/h3&gt;
+
+&lt;h3 id=&#34;aaste&#34;&gt;AASTE&lt;/h3&gt;
+
+&lt;h3 id=&#34;icecube&#34;&gt;IceCube&lt;/h3&gt;
+
+&lt;h2 id=&#34;2009-present-senior-fellow&#34;&gt;2009 - present: Senior Fellow&lt;/h2&gt;
+
+&lt;h3 id=&#34;etf-lever&#34;&gt;ETF/Lever&lt;/h3&gt;
+
+&lt;h3 id=&#34;kaleidoscope&#34;&gt;Kaleidoscope&lt;/h3&gt;
+</description>
     </item>
     
     <item>
@@ -95,25 +119,6 @@
       <guid>/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>/talks/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      
-      <guid>/talks/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
