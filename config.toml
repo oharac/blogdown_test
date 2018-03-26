@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "default"
 
   # Your details.
   name = "Casey O'Hara"
@@ -259,10 +259,10 @@ defaultContentLanguageInSubdir = false
   url = "#projects"
   weight = 4
 
-# [[menu.main]]
-#   name = "CV"
-#   url = "#cv"
-#   weight = 5
+[[menu.main]]
+  name = "CV"
+  url = "#cv"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
