@@ -9,73 +9,66 @@ output:
     highlight: haddock
 ---
 
-## Education
+### Education
 
 __PhD Environmental Science and Management (2022 expected)__<br>
-Bren School of Environmental Science & Management _University of California, Santa Barbara_
+Bren School of Environmental Science & Management, University of California, Santa Barbara
 
 *	Advisor: Dr. Benjamin Halpern
 * Committee: 
 
 __Master of Environmental Science and Management (2014)__<br>
-Bren School of Environmental Science & Management   _University of California, Santa Barbara_
+Bren School of Environmental Science & Management, University of California, Santa Barbara<br>
+UCSB University Award of Distinction; Bren School Academic Achievement Award
 
 __Single Subject Teaching Credential in Science, Physics (2004)__<br>
-Graduate School of Education   _San Francisco State University_
+Graduate School of Education, San Francisco State University
 
 __Master of Science in Mechanical Engineering Design (1994)__<br>
-Department of Mechanical Engineering, Design Division   _Stanford University_
+Department of Mechanical Engineering, Design Division, Stanford University
 
 __Bachelor of Science in Mechanical Engineering (1993)__<br>
-Department of Mechanical Engineering   _Stanford University_
+Department of Mechanical Engineering, Stanford University
 
-## Experience 
+### Experience 
 
-Project scientist, Ocean Health Index (January 2015 – present) NCEAS - Santa Barbara, CA
+* Project scientist, Ocean Health Index (January 2015 – present) NCEAS - Santa Barbara, CA
+* AAAS Mass Media Science Fellowship (June 2014 - August 2014) The Oregonian - Portland, OR
+* Program Consultant (June 2013 - August 2013) The School for Examining Essential Questions of Sustainability (SEEQS) Charter School - Honolulu, HI
+* Science Teacher: Physics, Integrated Science, Engineering & Green Tech (August 2004 - June 2012) Carlmont High School - Belmont, CA
 
-AAAS Mass Media Science Fellowship (June 2014 - August 2014) The Oregonian - Portland, OR
+### Publications
 
-Summer Program Consultant (June 2013 - August 2013) The School for Examining Essential Questions of Sustainability (SEEQS) Charter School - Honolulu, HI
+* Halpern, B. S., Frazier, M., Afflerbach, J., O’Hara, C., Katona, S., Lowndes, J. S. S., ... & Polsenberg, J. (2017). Drivers and implications of change in global ocean health over the past five years. PloS one, 12(7), e0178267. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267
+* Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., O’Hara, C. C., ... & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature ecology & evolution, 1(6), 0160. https://www.nature.com/articles/s41559-017-0160
+* O'Hara, C. C., Afflerbach, J. C., Scarborough, C., Kaschner, K., & Halpern, B. S. (2017). Aligning marine species range data to better serve science and conservation. PloS one, 12(5), e0175739. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739
 
-Science Teacher: Physics, Integrated Science, Engineering & Green Tech (August 2004 - June 2012) Carlmont High School - Belmont, CA
 
-## Publications
+### Honors 
 
-* they go here
+#### Science Communications Honors
 
-## Honors 
+* “Where the Wonder Went,” Santa Barbara International Film Festival (January 2014) Santa Barbara, CA
+* Education Liaison (November 2009 - December 2009) Amundsen-Scott South Pole Station, Antarctica
 
-### Science Communications Honors
+#### Science Education Leadership and Honors
 
-“Where the Wonder Went,” Santa Barbara International Film Festival (January 2014) Santa Barbara, CA
+* Knowles Science Teaching Foundation (2004 - present) - Moorestown, NJ
+* Exploratorium Teacher Institute (2004 - 2013) - San Francisco, CA
+* Innovative Teacher of the Year (2011) Carlmont High School - Belmont, CA
+* Amgen Award for Science Teaching Excellence (2011) Amgen Corporation 
+* National Board Certification (Science - Adolescent/Young Adult) (2009) National Board for Professional Teaching Standards
 
-Education Liaison (November 2009 - December 2009) Amundsen-Scott South Pole Station, Antarctica
+#### Engineering Experience
 
-### Science Education Leadership and Honors
+* Mechanical Engineer (May 2000 - December 2003) St. Jude Medical, Inc. - Sunnyvale, CA 
+* Mechanical Engineer (May 1997 - May 2000) Asyst Technologies (Hine Design) - Sunnyvale, CA 
+* Mechanical Engineer (August 1995 - April 1997) Applied Materials, Inc. - Santa Clara, CA 
+* Maintenance Engineer (August 1994 - August 1995) ATMEL Inc. - San Jose, CA 
 
-Knowles Science Teaching Foundation (2004 - present) - Moorestown, NJ
-
-Exploratorium Teacher Institute (2004 - 2013) - San Francisco, CA
-
-Innovative Teacher of the Year (2011) Carlmont High School - Belmont, CA
-
-Amgen Award for Science Teaching Excellence (2011) Amgen Corporation
-
-National Board Certification (Science - Adolescent/Young Adult) (2009) National Board for Professional Teaching Standards
-
-### Engineering Experience
-
-Mechanical Engineer (May 2000 - December 2003) St. Jude Medical, Inc. - Sunnyvale, CA 
-
-Mechanical Engineer (May 1997 - May 2000) Asyst Technologies (Hine Design) - Sunnyvale, CA 
-
-Mechanical Engineer (August 1995 - April 1997) Applied Materials, Inc. - Santa Clara, CA 
-
-Maintenance Engineer (August 1994 - August 1995) ATMEL Inc. - San Jose, CA 
-
-### Relevant Technical Skills
+#### Relevant Technical Skills
 
 *	R/R Studio including spatial analysis, data visualization, package development, ShinyApps, and Git/GitHub integration
-*	MATLAB, Stata, C/C++, HTML, JavaScript 
+*	MATLAB, Stata, C/C++, HTML, JavaScript, LaTeX
 *	ArcGIS, QGIS
 
