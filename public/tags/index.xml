@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Casey O&#39;Hara</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Casey O&#39;Hara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Knowles</title>
+      <link>/tags/knowles/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/knowles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowles-teacher-initiative</title>
+      <link>/tags/knowles-teacher-initiative/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/knowles-teacher-initiative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kstf</title>
+      <link>/tags/kstf/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kstf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean-health-index</title>
+      <link>/tags/ocean-health-index/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ocean-health-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ohi</title>
+      <link>/tags/ohi/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ohi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stem-education</title>
+      <link>/tags/stem-education/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stem-education/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
