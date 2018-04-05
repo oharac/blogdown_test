@@ -1,13 +1,15 @@
 ---
-title: "Curriculum Vitae"
+title: "Casey O'Hara"
 output: 
-  pdf_document:
-    toc: false
   html_document:
     toc: false
     theme: cerulean
     highlight: haddock
+  pdf_document:
+    toc: false
 ---
+
+## Curriculum Vitae {.tabset}
 
 ### Education
 
@@ -30,7 +32,7 @@ Department of Mechanical Engineering, Design Division, Stanford University
 __Bachelor of Science in Mechanical Engineering (1993)__<br>
 Department of Mechanical Engineering, Stanford University
 
-### Experience 2
+### Experience
 
 * Project scientist, Ocean Health Index (January 2015 – present) NCEAS - Santa Barbara, CA
 * AAAS Mass Media Science Fellowship (June 2014 - August 2014) The Oregonian - Portland, OR

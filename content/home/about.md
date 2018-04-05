@@ -28,7 +28,7 @@ weight = 5
   year = 2014
 
 [[education.courses]]
-  course = "CA Single Subject Teaching Credential (Physics)"
+  course = "CA Teaching Credential (Physics)"
   institution = "San Francisco State University"
   year = 2004
 

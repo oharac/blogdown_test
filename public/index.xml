@@ -122,12 +122,14 @@
     </item>
     
     <item>
-      <title>Curriculum Vitae</title>
+      <title>Casey O&#39;Hara</title>
       <link>/cv/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cv/cv/</guid>
-      <description>&lt;div id=&#34;education&#34; class=&#34;section level3&#34;&gt;
+      <description>&lt;div id=&#34;curriculum-vitae&#34; class=&#34;section level2 tabset&#34;&gt;
+&lt;h2&gt;Curriculum Vitae&lt;/h2&gt;
+&lt;div id=&#34;education&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Education&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;PhD Environmental Science and Management (2022 expected)&lt;/strong&gt;&lt;br&gt; Bren School of Environmental Science &amp;amp; Management, University of California, Santa Barbara&lt;/p&gt;
 &lt;ul&gt;
@@ -139,8 +141,8 @@
 &lt;p&gt;&lt;strong&gt;Master of Science in Mechanical Engineering Design (1994)&lt;/strong&gt;&lt;br&gt; Department of Mechanical Engineering, Design Division, Stanford University&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bachelor of Science in Mechanical Engineering (1993)&lt;/strong&gt;&lt;br&gt; Department of Mechanical Engineering, Stanford University&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;experience-2&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Experience 2&lt;/h3&gt;
+&lt;div id=&#34;experience&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Experience&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Project scientist, Ocean Health Index (January 2015 – present) NCEAS - Santa Barbara, CA&lt;/li&gt;
 &lt;li&gt;AAAS Mass Media Science Fellowship (June 2014 - August 2014) The Oregonian - Portland, OR&lt;/li&gt;
@@ -191,6 +193,7 @@
 &lt;li&gt;MATLAB, Stata, C/C++, HTML, JavaScript, LaTeX&lt;/li&gt;
 &lt;li&gt;ArcGIS, QGIS&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
