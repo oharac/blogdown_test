@@ -30,7 +30,7 @@ Department of Mechanical Engineering, Design Division, Stanford University
 __Bachelor of Science in Mechanical Engineering (1993)__<br>
 Department of Mechanical Engineering, Stanford University
 
-### Experience 
+### Experience 2
 
 * Project scientist, Ocean Health Index (January 2015 – present) NCEAS - Santa Barbara, CA
 * AAAS Mass Media Science Fellowship (June 2014 - August 2014) The Oregonian - Portland, OR
@@ -39,9 +39,9 @@ Department of Mechanical Engineering, Stanford University
 
 ### Publications
 
-* Halpern, B. S., Frazier, M., Afflerbach, J., O’Hara, C., Katona, S., Lowndes, J. S. S., ... & Polsenberg, J. (2017). Drivers and implications of change in global ocean health over the past five years. PloS one, 12(7), e0178267. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267
-* Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., O’Hara, C. C., ... & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature ecology & evolution, 1(6), 0160. https://www.nature.com/articles/s41559-017-0160
-* O'Hara, C. C., Afflerbach, J. C., Scarborough, C., Kaschner, K., & Halpern, B. S. (2017). Aligning marine species range data to better serve science and conservation. PloS one, 12(5), e0175739. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739
+* Halpern, B. S., Frazier, M., Afflerbach, J., *O’Hara, C.*, Katona, S., Lowndes, J. S. S., ... & Polsenberg, J. (2017). Drivers and implications of change in global ocean health over the past five years. PloS one, 12(7), e0178267. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267
+* Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., *O’Hara, C. C.*, ... & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature ecology & evolution, 1(6), 0160. https://www.nature.com/articles/s41559-017-0160
+* *O'Hara, C. C.*, Afflerbach, J. C., Scarborough, C., Kaschner, K., & Halpern, B. S. (2017). Aligning marine species range data to better serve science and conservation. PloS one, 12(5), e0175739. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739
 
 
 ### Honors 
