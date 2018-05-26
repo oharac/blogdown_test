@@ -1,12 +1,14 @@
 ---
 title: "Casey O'Hara"
-output: 
-  html_document:
-    toc: false
-    theme: cerulean
-    highlight: haddock
+output:
+  word_document:
+    toc: no
   pdf_document:
-    toc: false
+    toc: no
+  html_document:
+    highlight: haddock
+    theme: cerulean
+    toc: no
 ---
 
 ## Curriculum Vitae {.tabset}
@@ -17,7 +19,7 @@ __PhD Environmental Science and Management (2022 expected)__<br>
 Bren School of Environmental Science & Management, University of California, Santa Barbara
 
 *	Advisor: Dr. Benjamin Halpern
-* Committee: 
+<!-- * Committee:  -->
 
 __Master of Environmental Science and Management (2014)__<br>
 Bren School of Environmental Science & Management, University of California, Santa Barbara<br>
@@ -38,7 +40,7 @@ Department of Mechanical Engineering, Stanford University
 * AAAS Mass Media Science Fellowship (June 2014 - August 2014) The Oregonian - Portland, OR
 * Program Consultant (June 2013 - August 2013) The School for Examining Essential Questions of Sustainability (SEEQS) Charter School - Honolulu, HI
 * Masters Thesis Group Project (April 2013 - June 2014) Bren School - Santa Barbara, CA “Offshore wind energy in the context of multiple ocean uses on the Bermuda platform” Client: Department of Environmental Protection, Bermuda
-* See also Teaching, Engineering sections
+* See also Science Education, Engineering sections
 
 ### Publications
 
@@ -48,32 +50,28 @@ Department of Mechanical Engineering, Stanford University
 
 ### Relevant Technical Skills
 
-*	R/R Studio including spatial analysis, data visualization, package development, ShinyApps, and Git/GitHub integration
+*	R/R Studio including spatial analysis, data visualization, package development, ShinyApps
+* Git/GitHub
 *	MATLAB, Stata, C/C++, HTML, JavaScript, LaTeX
 *	ArcGIS, QGIS
 
-### Teaching
+### Science Education
 
-* (TA position)
-* (Unit design, Lever coaching, Exploratorium workshop)
+<!-- * (TA position) -->
+<!-- * (Unit design, Lever coaching, Exploratorium workshop) -->
 * Program Consultant (June 2013 - August 2013) The School for Examining Essential Questions of Sustainability (SEEQS) Charter School - Honolulu, HI
 * Science Teacher: Physics, Integrated Science, Engineering & Green Tech (August 2004 - June 2012) Carlmont High School - Belmont, CA
 * Education Liaison (November 2009 - December 2009) Amundsen-Scott South Pole Station, Antarctica
 
 #### Science Education Leadership and Honors
 
+* “Where the Wonder Went” documentary short film, Santa Barbara International Film Festival (January 2014) Santa Barbara, CA
 * Senior Fellow, Knowles Science Teaching Foundation (2009 - present) - Moorestown, NJ
-* Science Teaching Fellow, Knowles Science Teaching Foundation (2004 - 2009) - Moorestown, NJ
+* Teaching Fellow, Knowles Science Teaching Foundation (2004 - 2009) - Moorestown, NJ
 * Exploratorium Teacher Institute (2004 - 2013) - San Francisco, CA
 * Innovative Teacher of the Year (2011) Carlmont High School - Belmont, CA
 * Amgen Award for Science Teaching Excellence (2011) Amgen Corporation 
 * National Board Certification (Science - Adolescent/Young Adult) (2009) National Board for Professional Teaching Standards
-
-### Honors 
-
-#### Science Communications Honors
-
-* “Where the Wonder Went,” Santa Barbara International Film Festival (January 2014) Santa Barbara, CA
 
 ### Engineering
 
