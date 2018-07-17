@@ -44,8 +44,8 @@ Department of Mechanical Engineering, Stanford University
 
 ### Publications
 
-* Halpern, B. S., Frazier, M., Afflerbach, J., __O'Hara, C.__, Katona, S., Lowndes, J. S. S., ... & Polsenberg, J. (2017). Drivers and implications of change in global ocean health over the past five years. PloS one, 12(7), e0178267. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267
-* Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., __O'Hara, C. C.__, ... & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature ecology & evolution, 1(6), 0160. https://www.nature.com/articles/s41559-017-0160
+* Halpern, B. S., Frazier, M., Afflerbach, J., __O'Hara, C.__, Katona, S., ... & Polsenberg, J. (2017). Drivers and implications of change in global ocean health over the past five years. PloS one, 12(7), e0178267. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267
+* Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., __O'Hara, C. C.__, Ning Jiang, & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature ecology & evolution, 1(6), 0160. https://www.nature.com/articles/s41559-017-0160
 * __O'Hara, C. C.__, Afflerbach, J. C., Scarborough, C., Kaschner, K., & Halpern, B. S. (2017). Aligning marine species range data to better serve science and conservation. PloS one, 12(5), e0175739. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739
 
 ### Relevant Technical Skills
