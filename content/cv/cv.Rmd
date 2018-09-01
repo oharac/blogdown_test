@@ -1,11 +1,11 @@
 ---
 title: "Casey O'Hara"
 output:
+  pdf_document:
+    toc: no
   html_document:
     highlight: haddock
     theme: cerulean
-    toc: no
-  pdf_document:
     toc: no
   word_document:
     toc: no
