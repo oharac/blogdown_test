@@ -43,6 +43,18 @@
     </item>
     
     <item>
+      <title>A pan-Arctic assessment of the status of marine social-ecological systems</title>
+      <link>/publication/arctic_ohi/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/arctic_ohi/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-detail-can-easily-be-written-here-using-markdown-and-rm-latex-math-code&#34;&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Knowles Teacher Initiative</title>
       <link>/project/knowles/</link>
       <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
@@ -129,37 +141,26 @@
       <guid>/cv/cv/</guid>
       <description>&lt;div id=&#34;curriculum-vitae&#34; class=&#34;section level2 tabset&#34;&gt;
 &lt;h2&gt;Curriculum Vitae&lt;/h2&gt;
-&lt;div id=&#34;education&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Education&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;PhD Environmental Science and Management (2022 expected)&lt;/strong&gt;&lt;br&gt; Bren School of Environmental Science &amp;amp; Management, University of California, Santa Barbara&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Advisor: Dr. Benjamin Halpern &lt;!-- * Committee:  --&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div id=&#34;education-and-experience&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Education and Experience&lt;/h3&gt;
+&lt;div id=&#34;education&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Education&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;PhD Environmental Science and Management (2022 expected)&lt;/strong&gt;&lt;br&gt; Bren School of Environmental Science &amp;amp; Management, University of California, Santa Barbara&lt;br&gt; &lt;em&gt;Advisor: Dr. Benjamin Halpern&lt;/em&gt; &lt;!-- * Committee:  --&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Master of Environmental Science and Management (2014)&lt;/strong&gt;&lt;br&gt; Bren School of Environmental Science &amp;amp; Management, University of California, Santa Barbara&lt;br&gt; &lt;em&gt;UCSB University Award of Distinction; Bren School Academic Achievement Award&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Single Subject Teaching Credential in Science, Physics (2004)&lt;/strong&gt;&lt;br&gt; Graduate School of Education, San Francisco State University&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Master of Science in Mechanical Engineering Design (1994)&lt;/strong&gt;&lt;br&gt; Department of Mechanical Engineering, Design Division, Stanford University&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bachelor of Science in Mechanical Engineering (1993)&lt;/strong&gt;&lt;br&gt; Department of Mechanical Engineering, Stanford University&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;experience&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Experience&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Project scientist, Ocean Health Index (January 2015 – present) NCEAS - Santa Barbara, CA&lt;/li&gt;
-&lt;li&gt;AAAS Mass Media Science Fellowship (June 2014 - August 2014) The Oregonian - Portland, OR&lt;/li&gt;
-&lt;li&gt;Program Consultant (June 2013 - August 2013) The School for Examining Essential Questions of Sustainability (SEEQS) Charter School - Honolulu, HI&lt;/li&gt;
-&lt;li&gt;Masters Thesis Group Project (April 2013 - June 2014) Bren School - Santa Barbara, CA “Offshore wind energy in the context of multiple ocean uses on the Bermuda platform” Client: Department of Environmental Protection, Bermuda&lt;/li&gt;
-&lt;li&gt;See also Science Education, Engineering sections&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div id=&#34;experience&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Experience&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Project scientist, Ocean Health Index&lt;/strong&gt; (January 2015 – present) &lt;br&gt; National Center for Ecological Analysis and Synthesis - Santa Barbara, CA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AAAS Mass Media Science Fellowship&lt;/strong&gt; (June 2014 - August 2014) &lt;br&gt; &lt;em&gt;The Oregonian&lt;/em&gt; - Portland, OR&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Program Consultant&lt;/strong&gt; (June 2013 - August 2013) &lt;br&gt; The School for Examining Essential Questions of Sustainability (SEEQS) Charter School - Honolulu, HI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Masters Thesis Group Project&lt;/strong&gt; (April 2013 - June 2014) &lt;br&gt; UCSB Bren School - Santa Barbara, CA “Offshore wind energy in the context of multiple ocean uses on the Bermuda platform.” Client: Department of Environmental Protection, Bermuda&lt;/p&gt;
+&lt;p&gt;See also &lt;em&gt;STEM Education and Engineering&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;publications&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Publications&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Halpern, B. S., Frazier, M., Afflerbach, J., &lt;strong&gt;O’Hara, C.&lt;/strong&gt;, Katona, S., … &amp;amp; Polsenberg, J. (2017). Drivers and implications of change in global ocean health over the past five years. PloS one, 12(7), e0178267. &lt;a href=&#34;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267&#34; class=&#34;uri&#34;&gt;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., &lt;strong&gt;O’Hara, C. C.&lt;/strong&gt;, Ning Jiang, &amp;amp; Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature ecology &amp;amp; evolution, 1(6), 0160. &lt;a href=&#34;https://www.nature.com/articles/s41559-017-0160&#34; class=&#34;uri&#34;&gt;https://www.nature.com/articles/s41559-017-0160&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;O’Hara, C. C.&lt;/strong&gt;, Afflerbach, J. C., Scarborough, C., Kaschner, K., &amp;amp; Halpern, B. S. (2017). Aligning marine species range data to better serve science and conservation. PloS one, 12(5), e0175739. &lt;a href=&#34;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739&#34; class=&#34;uri&#34;&gt;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;relevant-technical-skills&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Relevant Technical Skills&lt;/h3&gt;
+&lt;div id=&#34;relevant-technical-skills&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Relevant Technical Skills&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;R/R Studio including spatial analysis, data visualization, package development, ShinyApps&lt;/li&gt;
 &lt;li&gt;Git/GitHub&lt;/li&gt;
@@ -167,8 +168,20 @@
 &lt;li&gt;ArcGIS, QGIS&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;div id=&#34;science-education&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Science Education&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;publications&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Publications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Burgass, M. J., Milner-Gulland, E. J., Stewart Lowndes, J. S., &lt;strong&gt;O’Hara, C.&lt;/strong&gt;, Afflerbach, J. C., &amp;amp; Halpern, B. S. (2018). A pan-Arctic assessment of the status of marine social-ecological systems. Regional Environmental Change. &lt;a href=&#34;https://doi.org/10.1007/s10113-018-1395-6&#34; class=&#34;uri&#34;&gt;https://doi.org/10.1007/s10113-018-1395-6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Halpern, B. S., Frazier, M., Afflerbach, J., &lt;strong&gt;O’Hara, C.&lt;/strong&gt;, Katona, S., … &amp;amp; Polsenberg, J. (2017). Drivers and implications of change in global ocean health over the past five years. PloS one, 12(7), e0178267. &lt;a href=&#34;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267&#34; class=&#34;uri&#34;&gt;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., &lt;strong&gt;O’Hara, C. C.&lt;/strong&gt;, Ning Jiang, &amp;amp; Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature ecology &amp;amp; evolution, 1(6), 0160. &lt;a href=&#34;https://www.nature.com/articles/s41559-017-0160&#34; class=&#34;uri&#34;&gt;https://www.nature.com/articles/s41559-017-0160&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O’Hara, C. C.&lt;/strong&gt;, Afflerbach, J. C., Scarborough, C., Kaschner, K., &amp;amp; Halpern, B. S. (2017). Aligning marine species range data to better serve science and conservation. PloS one, 12(5), e0175739. &lt;a href=&#34;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739&#34; class=&#34;uri&#34;&gt;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;stem-education-and-engineering&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;STEM Education and Engineering&lt;/h3&gt;
+&lt;div id=&#34;science-education-experience&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Science Education Experience&lt;/h4&gt;
 &lt;!-- * (TA position) --&gt;
 &lt;!-- * (Unit design, Lever coaching, Exploratorium workshop) --&gt;
 &lt;ul&gt;
@@ -176,6 +189,7 @@
 &lt;li&gt;Science Teacher: Physics, Integrated Science, Engineering &amp;amp; Green Tech (August 2004 - June 2012) Carlmont High School - Belmont, CA&lt;/li&gt;
 &lt;li&gt;Education Liaison (November 2009 - December 2009) Amundsen-Scott South Pole Station, Antarctica&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
 &lt;div id=&#34;science-education-leadership-and-honors&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Science Education Leadership and Honors&lt;/h4&gt;
 &lt;ul&gt;
@@ -188,15 +202,15 @@
 &lt;li&gt;National Board Certification (Science - Adolescent/Young Adult) (2009) National Board for Professional Teaching Standards&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;engineering&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Engineering&lt;/h3&gt;
+&lt;div id=&#34;engineering-experience&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Engineering Experience&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Mechanical Engineer (May 2000 - December 2003) St. Jude Medical, Inc. - Sunnyvale, CA&lt;/li&gt;
 &lt;li&gt;Mechanical Engineer (May 1997 - May 2000) Asyst Technologies (Hine Design) - Sunnyvale, CA&lt;/li&gt;
 &lt;li&gt;Mechanical Engineer (August 1995 - April 1997) Applied Materials, Inc. - Santa Clara, CA&lt;/li&gt;
 &lt;li&gt;Maintenance Engineer (August 1994 - August 1995) ATMEL Inc. - San Jose, CA&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
