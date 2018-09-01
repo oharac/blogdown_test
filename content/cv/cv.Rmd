@@ -1,24 +1,25 @@
 ---
 title: "Casey O'Hara"
 output:
-  word_document:
-    toc: no
-  pdf_document:
-    toc: no
   html_document:
     highlight: haddock
     theme: cerulean
+    toc: no
+  pdf_document:
+    toc: no
+  word_document:
     toc: no
 ---
 
 ## Curriculum Vitae {.tabset}
 
-### Education
+### Education and Experience
+
+#### Education
 
 __PhD Environmental Science and Management (2022 expected)__<br>
-Bren School of Environmental Science & Management, University of California, Santa Barbara
-
-*	Advisor: Dr. Benjamin Halpern
+Bren School of Environmental Science & Management, University of California, Santa Barbara<br>
+_Advisor: Dr. Benjamin Halpern_
 <!-- * Committee:  -->
 
 __Master of Environmental Science and Management (2014)__<br>
@@ -34,28 +35,39 @@ Department of Mechanical Engineering, Design Division, Stanford University
 __Bachelor of Science in Mechanical Engineering (1993)__<br>
 Department of Mechanical Engineering, Stanford University
 
-### Experience
+#### Experience
 
-* Project scientist, Ocean Health Index (January 2015 – present) NCEAS - Santa Barbara, CA
-* AAAS Mass Media Science Fellowship (June 2014 - August 2014) The Oregonian - Portland, OR
-* Program Consultant (June 2013 - August 2013) The School for Examining Essential Questions of Sustainability (SEEQS) Charter School - Honolulu, HI
-* Masters Thesis Group Project (April 2013 - June 2014) Bren School - Santa Barbara, CA “Offshore wind energy in the context of multiple ocean uses on the Bermuda platform” Client: Department of Environmental Protection, Bermuda
-* See also Science Education, Engineering sections
+__Project scientist, Ocean Health Index__ (January 2015 – present) <br>
+National Center for Ecological Analysis and Synthesis - Santa Barbara, CA
 
-### Publications
+__AAAS Mass Media Science Fellowship__ (June 2014 - August 2014) <br>
+_The Oregonian_ - Portland, OR
 
-* Halpern, B. S., Frazier, M., Afflerbach, J., __O'Hara, C.__, Katona, S., ... & Polsenberg, J. (2017). Drivers and implications of change in global ocean health over the past five years. PloS one, 12(7), e0178267. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267
-* Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., __O'Hara, C. C.__, Ning Jiang, & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature ecology & evolution, 1(6), 0160. https://www.nature.com/articles/s41559-017-0160
-* __O'Hara, C. C.__, Afflerbach, J. C., Scarborough, C., Kaschner, K., & Halpern, B. S. (2017). Aligning marine species range data to better serve science and conservation. PloS one, 12(5), e0175739. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739
+__Program Consultant__ (June 2013 - August 2013) <br>
+The School for Examining Essential Questions of Sustainability (SEEQS) Charter School - Honolulu, HI
 
-### Relevant Technical Skills
+__Masters Thesis Group Project__ (April 2013 - June 2014) <br>
+UCSB Bren School - Santa Barbara, CA “Offshore wind energy in the context of multiple ocean uses on the Bermuda platform.” Client: Department of Environmental Protection, Bermuda
+
+See also _STEM Education and Engineering_
+
+#### Relevant Technical Skills
 
 *	R/R Studio including spatial analysis, data visualization, package development, ShinyApps
 * Git/GitHub
 *	MATLAB, Stata, C/C++, HTML, JavaScript, LaTeX
 *	ArcGIS, QGIS
 
-### Science Education
+### Publications
+
+* Burgass, M. J., Milner-Gulland, E. J., Stewart Lowndes, J. S., __O’Hara, C.__, Afflerbach, J. C., & Halpern, B. S. (2018). A pan-Arctic assessment of the status of marine social-ecological systems. Regional Environmental Change. https://doi.org/10.1007/s10113-018-1395-6
+* Halpern, B. S., Frazier, M., Afflerbach, J., __O'Hara, C.__, Katona, S., ... & Polsenberg, J. (2017). Drivers and implications of change in global ocean health over the past five years. PloS one, 12(7), e0178267. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267
+* Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., __O'Hara, C. C.__, Ning Jiang, & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature ecology & evolution, 1(6), 0160. https://www.nature.com/articles/s41559-017-0160
+* __O'Hara, C. C.__, Afflerbach, J. C., Scarborough, C., Kaschner, K., & Halpern, B. S. (2017). Aligning marine species range data to better serve science and conservation. PloS one, 12(5), e0175739. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739
+
+### STEM Education and Engineering
+
+#### Science Education Experience
 
 <!-- * (TA position) -->
 <!-- * (Unit design, Lever coaching, Exploratorium workshop) -->
@@ -73,7 +85,7 @@ Department of Mechanical Engineering, Stanford University
 * Amgen Award for Science Teaching Excellence (2011) Amgen Corporation 
 * National Board Certification (Science - Adolescent/Young Adult) (2009) National Board for Professional Teaching Standards
 
-### Engineering
+#### Engineering Experience
 
 * Mechanical Engineer (May 2000 - December 2003) St. Jude Medical, Inc. - Sunnyvale, CA 
 * Mechanical Engineer (May 1997 - May 2000) Asyst Technologies (Hine Design) - Sunnyvale, CA 
