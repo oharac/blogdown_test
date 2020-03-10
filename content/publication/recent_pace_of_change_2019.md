@@ -29,7 +29,7 @@ abstract_short = "We combined high resolution, annual data on the intensity of 1
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -37,12 +37,12 @@ selected = true
 projects = ["ohi"]
 
 # Links (optional).
-url_pdf = "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267"
-url_code = "https://github.com/OHI-Science/ohi-global"
+url_pdf = "https://www.nature.com/articles/s41598-019-47201-9"
+url_code = "https://github.com/OHI-Science/impact_acceleration"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Interactive app", url = "http://ohi-science.nceas.ucsb.edu/plos_change_in_global_ocean_health/"}]
+# url_custom = [{name = "Interactive app", url = "http://ohi-science.nceas.ucsb.edu/plos_change_in_global_ocean_health/"}]
 
 # Does the content use math formatting?
 math = true

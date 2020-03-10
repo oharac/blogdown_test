@@ -34,10 +34,10 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["ohi"]
+# projects = ["ohi"]
 
 # Links (optional).
-url_pdf = "https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12651"
+url_pdf = "https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/conl.12651"
 url_code = "https://github.com/oharac/spp_risk_dists"
 
 # Custom links (optional).
