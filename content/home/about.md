@@ -53,6 +53,6 @@ My research will focus on process and outcome equity in environmental management
 
 Principles of open, reproducible data science are fundamental to my philosophy of practice as a scientist.  [“Our path to better science in less time”](https://www.nature.com/articles/s41559-017-0160) outlines the story of our Ocean Health Index team’s evolution toward open science best practices, using R, R Studio, and Github to collaborate and communicate our research. 
 
-In a previous life, I taught high school integrated science, physics, and engineering design.  As a Senior Fellow of the [Knowles Teacher Initiative](https://knowlesteachers.org/), I continue to work with teachers as a coach and collaborative planner, but I do miss working with my students to help them explore and discover the laws of the universe. 
+In a previous life, I taught high school integrated science, physics, and engineering design.  As a Senior Fellow of the [Knowles Teacher Initiative](https://knowlesteachers.org/), I continue to work with teachers as a coach and collaborative planner, but I do miss working with my students to help them discover and explore the laws of the universe. 
 
 In my copious free time as a grad student, I enjoy scuba diving and playing music, but not at the same time.
