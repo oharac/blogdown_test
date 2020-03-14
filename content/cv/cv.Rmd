@@ -1,5 +1,4 @@
 ---
-title: "Casey O'Hara"
 output:
   pdf_document:
     toc: no
@@ -11,11 +10,16 @@ output:
     toc: no
 ---
 
-## Curriculum Vitae {.tabset}
+# Casey O'Hara
 
-### Education and Experience
+Bren School of Environmental Science & Management
 
-#### Education
+casey.c.ohara@gmail.com | cohara@bren.ucsb.edu
+<!-- ## Curriculum Vitae {.tabset} -->
+
+<!-- ### Education and Experience -->
+
+## Education
 
 __PhD Environmental Science and Management (2022 expected)__<br>
 Bren School of Environmental Science & Management, University of California, Santa Barbara<br>
@@ -35,7 +39,7 @@ Department of Mechanical Engineering, Design Division, Stanford University
 __Bachelor of Science in Mechanical Engineering (1993)__<br>
 Department of Mechanical Engineering, Stanford University
 
-#### Experience
+## Experience
 
 __Project scientist, Ocean Health Index__ (January 2015 – present) <br>
 National Center for Ecological Analysis and Synthesis - Santa Barbara, CA
@@ -51,23 +55,37 @@ UCSB Bren School - Santa Barbara, CA “Offshore wind energy in the context of m
 
 See also _STEM Education and Engineering_
 
-#### Relevant Technical Skills
+## Working Groups
+
+* __Species Vulnerability Working Group (OceanKind)__ (February 2020) <br>
+Matadradra Serua, Fiji
+* __Coastal Outcomes Working Group (SNAPP)__ (April 2019) <br>
+National Center for Ecological Analysis and Synthesis - Santa Barbara, CA
+* __Ocean Futures Working Group (SNAPP)__ (July 2018) <br>
+National Center for Ecological Analysis and Synthesis - Santa Barbara, CA
+
+
+## Relevant Technical Skills
 
 *	R/R Studio including spatial analysis, data visualization, package development, ShinyApps
 * Git/GitHub
 *	MATLAB, Stata, C/C++, HTML, JavaScript, LaTeX
 *	ArcGIS, QGIS
 
-### Publications
+## Publications
 
-* Burgass, M. J., Milner-Gulland, E. J., Stewart Lowndes, J. S., __O’Hara, C.__, Afflerbach, J. C., & Halpern, B. S. (2018). A pan-Arctic assessment of the status of marine social-ecological systems. Regional Environmental Change. https://doi.org/10.1007/s10113-018-1395-6
-* Halpern, B. S., Frazier, M., Afflerbach, J., __O'Hara, C.__, Katona, S., ... & Polsenberg, J. (2017). Drivers and implications of change in global ocean health over the past five years. PloS one, 12(7), e0178267. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178267
-* Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., __O'Hara, C. C.__, Ning Jiang, & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature ecology & evolution, 1(6), 0160. https://www.nature.com/articles/s41559-017-0160
-* __O'Hara, C. C.__, Afflerbach, J. C., Scarborough, C., Kaschner, K., & Halpern, B. S. (2017). Aligning marine species range data to better serve science and conservation. PloS one, 12(5), e0175739. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175739
+* __O'Hara, Casey C.__, Courtney Scarborough, Karen L. Hunter, Jamie C. Afflerbach, Karin Bodtker, Melanie Frazier, Julia S. Stewart Lowndes, R. Ian Perry, and Benjamin S. Halpern. 2020. “Changes in Ocean Health in British Columbia from 2001 to 2016.” PLOS ONE 15 (1): e0227502. https://doi.org/10.1371/journal.pone.0227502.
+* Friedman, Whitney R., Benjamin S. Halpern, Elizabeth McLeod, Michael W. Beck, Carlos M. Duarte, Carrie V. Kappel, Arielle Levine, ... __Casey O'Hara__, et al. 2020. “Research Priorities for Achieving Healthy Marine Ecosystems and Human Communities in a Changing Climate.” Frontiers in Marine Science 7. https://doi.org/10.3389/fmars.2020.00005.
+* Halpern, Benjamin S., Melanie Frazier, Jamie Afflerbach, Julia S. Lowndes, Fiorenza Micheli, __Casey O'Hara__, Courtney Scarborough, and Kimberly A. Selkoe. 2019. “Recent Pace of Change in Human Impact on the World's Ocean.” Scientific Reports 9 (1): 1–8. https://doi.org/10.1038/s41598-019-47201-9.
+* Burgass, Michael J., E. J. Milner-Gulland, Julia S. Stewart Lowndes, __Casey O'Hara__, Jamie C. Afflerbach, and Benjamin S. Halpern. 2018. “A Pan-Arctic Assessment of the Status of Marine Social-Ecological Systems.” Regional Environmental Change, August. https://doi.org/10.1007/s10113-018-1395-6.
+* Halpern, Benjamin S., Melanie Frazier, Jamie Afflerbach, __Casey O'Hara__, Steven Katona, Julia S. Stewart Lowndes, Ning Jiang, Erich Pacheco, Courtney Scarborough, and Johanna Polsenberg. 2017. “Drivers and Implications of Change in Global Ocean Health over the Past Five Years.” Edited by Athanassios C. Tsikliras. PLOS ONE 12 (7): e0178267. https://doi.org/10.1371/journal.pone.0178267.
+* Lowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, __Casey C. O'Hara__, Ning Jiang, and Benjamin S. Halpern. 2017. “Our Path to Better Science in Less Time Using Open Data Science Tools.” Nature Ecology & Evolution 1 (6): 0160. https://doi.org/10.1038/s41559-017-0160.
+* __O'Hara, Casey C.__, Jamie C. Afflerbach, Courtney Scarborough, Kristin Kaschner, and Benjamin S. Halpern. 2017. “Aligning Marine Species Range Data to Better Serve Science and Conservation.” Edited by Robert Guralnick. PLOS ONE 12 (5): e0175739. https://doi.org/10.1371/journal.pone.0175739.
 
-### STEM Education and Engineering
+\newpage
+## STEM Education and Engineering
 
-#### Science Education Experience
+### Science Education Experience
 
 <!-- * (TA position) -->
 <!-- * (Unit design, Lever coaching, Exploratorium workshop) -->
@@ -75,7 +93,7 @@ See also _STEM Education and Engineering_
 * Science Teacher: Physics, Integrated Science, Engineering & Green Tech (August 2004 - June 2012) Carlmont High School - Belmont, CA
 * Education Liaison (November 2009 - December 2009) Amundsen-Scott South Pole Station, Antarctica
 
-#### Science Education Leadership and Honors
+### Science Education Leadership and Honors
 
 * “Where the Wonder Went” documentary short film, Santa Barbara International Film Festival (January 2014) Santa Barbara, CA
 * Senior Fellow, Knowles Science Teaching Foundation (2009 - present) - Moorestown, NJ
@@ -85,7 +103,7 @@ See also _STEM Education and Engineering_
 * Amgen Award for Science Teaching Excellence (2011) Amgen Corporation 
 * National Board Certification (Science - Adolescent/Young Adult) (2009) National Board for Professional Teaching Standards
 
-#### Engineering Experience
+### Engineering Experience
 
 * Mechanical Engineer (May 2000 - December 2003) St. Jude Medical, Inc. - Sunnyvale, CA 
 * Mechanical Engineer (May 1997 - May 2000) Asyst Technologies (Hine Design) - Sunnyvale, CA 
