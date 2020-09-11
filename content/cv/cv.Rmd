@@ -1,10 +1,10 @@
 ---
 output:
-  pdf_document:
-    toc: no
   html_document:
     highlight: haddock
     theme: cerulean
+    toc: no
+  pdf_document:
     toc: no
   word_document:
     toc: no
@@ -57,7 +57,7 @@ See also _STEM Education and Engineering_
 
 ## Working Groups
 
-* __Species Vulnerability Working Group (OceanKind)__ (February 2020) <br>
+* __Species Vulnerability Working Group (National Philanthropic Trust)__ (February 2020) <br>
 Matadradra Serua, Fiji
 * __Coastal Outcomes Working Group (SNAPP)__ (April 2019) <br>
 National Center for Ecological Analysis and Synthesis - Santa Barbara, CA
@@ -77,6 +77,7 @@ National Center for Ecological Analysis and Synthesis - Santa Barbara, CA
 * __O'Hara, Casey C.__, Courtney Scarborough, Karen L. Hunter, Jamie C. Afflerbach, Karin Bodtker, Melanie Frazier, Julia S. Stewart Lowndes, R. Ian Perry, and Benjamin S. Halpern. 2020. “Changes in Ocean Health in British Columbia from 2001 to 2016.” PLOS ONE 15 (1): e0227502. https://doi.org/10.1371/journal.pone.0227502.
 * Friedman, Whitney R., Benjamin S. Halpern, Elizabeth McLeod, Michael W. Beck, Carlos M. Duarte, Carrie V. Kappel, Arielle Levine, ... __Casey O'Hara__, et al. 2020. “Research Priorities for Achieving Healthy Marine Ecosystems and Human Communities in a Changing Climate.” Frontiers in Marine Science 7. https://doi.org/10.3389/fmars.2020.00005.
 * Halpern, Benjamin S., Melanie Frazier, Jamie Afflerbach, Julia S. Lowndes, Fiorenza Micheli, __Casey O'Hara__, Courtney Scarborough, and Kimberly A. Selkoe. 2019. “Recent Pace of Change in Human Impact on the World's Ocean.” Scientific Reports 9 (1): 1–8. https://doi.org/10.1038/s41598-019-47201-9.
+* __O’Hara, Casey C.__, Juan Carlos Villaseñor‐Derbez, Gina M. Ralph, and Benjamin S. Halpern. 2019. “Mapping Status and Conservation of Global At‐risk Marine Biodiversity.” Conservation Letters, May, e12651. https://doi.org/10.1111/conl.12651.
 * Burgass, Michael J., E. J. Milner-Gulland, Julia S. Stewart Lowndes, __Casey O'Hara__, Jamie C. Afflerbach, and Benjamin S. Halpern. 2018. “A Pan-Arctic Assessment of the Status of Marine Social-Ecological Systems.” Regional Environmental Change, August. https://doi.org/10.1007/s10113-018-1395-6.
 * Halpern, Benjamin S., Melanie Frazier, Jamie Afflerbach, __Casey O'Hara__, Steven Katona, Julia S. Stewart Lowndes, Ning Jiang, Erich Pacheco, Courtney Scarborough, and Johanna Polsenberg. 2017. “Drivers and Implications of Change in Global Ocean Health over the Past Five Years.” Edited by Athanassios C. Tsikliras. PLOS ONE 12 (7): e0178267. https://doi.org/10.1371/journal.pone.0178267.
 * Lowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, __Casey C. O'Hara__, Ning Jiang, and Benjamin S. Halpern. 2017. “Our Path to Better Science in Less Time Using Open Data Science Tools.” Nature Ecology & Evolution 1 (6): 0160. https://doi.org/10.1038/s41559-017-0160.
